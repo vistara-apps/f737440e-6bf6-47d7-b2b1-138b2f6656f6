@@ -1,0 +1,14 @@
+{
+  "name": "AdRemix AI",
+  "description": "AdRemix AI is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://f737440e-6bf6-47d7-b2b1-138b2f6656f6.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "AdRemix AI",
+      "description": "AdRemix AI is a Base Mini App built with Zara.",
+      "url": "https://f737440e-6bf6-47d7-b2b1-138b2f6656f6.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
